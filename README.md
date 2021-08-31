@@ -7,7 +7,7 @@ Find any vertical plane, point the camera toward it and experience the magical p
   <img width="600" src="images/img1.PNG">
 </p>
 
-Check out the demo videos here (https://www.youtube.com/watch?v=cXtBBHr16cI) and other images from the experience:
+Check out the demo videos here (https://www.youtube.com/watch?v=cXtBBHr16cI) and other images from the experience. Turn on the volume to experience the fullest.
 
 <p align="center">
   <img width="400" src="images/img2.PNG">
